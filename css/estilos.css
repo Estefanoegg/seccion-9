@@ -164,3 +164,6 @@ justify-content: center;
 min-height: 200px;
 text-align: center;
 }
+.greeting {
+  text-align: center;
+  }
